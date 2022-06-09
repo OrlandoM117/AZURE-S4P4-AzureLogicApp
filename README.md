@@ -1,6 +1,7 @@
 # Logic  App AZURE
 
 **En  esta practica se verá a cabo como se utilizo un Logic App en Azure para analizar twits y colocarlos en una publicacion de un canal en teams**
+
 ![Azure](imagenes/azure.png)![Logic App](imagenes/Azure-Logic-Apps-logo.png)
 
 ----------------------
